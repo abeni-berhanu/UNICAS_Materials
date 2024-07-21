@@ -4,7 +4,10 @@ body {
     padding: 0;
     background-color: #f4f4f4;
 }
-
+.main-header {
+    font-family: 'Space Grotesk', sans-serif;
+    text-align: center;
+}
 #container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
@@ -22,6 +25,12 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+.file {
+    color: rgb(56, 62, 56);
+}
+.folder {
+    color: #ffdf85;
+}
 .card i {
     font-size: 50px;
     margin-bottom: 8px;
