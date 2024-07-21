@@ -1,0 +1,114 @@
+{
+    "Financial-Accounting": {
+        "Notes": {
+            "file": [
+                "full-note_handwritten_my-note.pdf"
+            ]
+        }
+    },
+    "file": [
+        "index.html"
+    ],
+    "International Economics": {
+        "file": [
+            "IE Finance_merged (2).pdf",
+            "The Pearson series in economics] Gerber, James - International economics (2017_2018, Pearson).pdf"
+        ]
+    },
+    "International Management": {
+        "file": [
+            "00- Introduction to management - All Slides (Ylenia Cavacece).pdf",
+            "01- Introduction to the course.pdf",
+            "02- Pestel Analysis.pdf",
+            "03- Abell's Matrix.pdf",
+            "04 and 05- SWAT Analysis and Competitive Advantage.pdf",
+            "06- BCG Matrix.pdf",
+            "07- Ansoff Matrix.pdf",
+            "08- Case Study DYNAMIC CAPABILITIES petrone.pdf",
+            "09-1 Case Study Zara.pdf",
+            "10-1 Document (1).pdf",
+            "10-2 Exercise on BCG matrix BOSTON CONSULTING GROUP.pdf",
+            "11- Example BGC Matrix.pdf",
+            "12- Porter's five forces model.pdf",
+            "13- Strategic Management.pdf",
+            "14- Internationalization strategies.pdf",
+            "15- Business strategies.pdf",
+            "16- Marketing.pdf",
+            "17 and 18- Production, logistics an R&D.pdf",
+            "19- Human Resources.pdf"
+        ],
+        "Exam Papers": {
+            "file": [
+                "Exam papers of Introduction to management - Ylenia Cavacece (1).jpeg",
+                "Exam papers of Introduction to management - Ylenia Cavacece (1).jpg",
+                "Exam papers of Introduction to management - Ylenia Cavacece (2).jpeg",
+                "Exam papers of Introduction to management - Ylenia Cavacece (2).jpg",
+                "Exam papers of Introduction to management - Ylenia Cavacece (3).jpeg"
+            ]
+        },
+        "Some important Notes": {
+            "file": [
+                "Corporate Strategy.jpg",
+                "Functional Strategy 1.jpg",
+                "Functional Strategy 2.jpg",
+                "Human Resources 1.jpg",
+                "Human Resources 2.jpg",
+                "Logistics Function 1.jpg",
+                "Logistics Function 2.jpg",
+                "Marketing 1.jpg",
+                "Marketing 2.jpg",
+                "Marketing 3.jpg",
+                "Porter's Chain Value 1.jpg",
+                "Porter's Chain Value 2.jpg",
+                "Porter's Chain Value 3.jpg",
+                "Production Function 1.jpg",
+                "Production Function 2.jpg",
+                "R&D 1.jpg",
+                "R&D 2.jpg",
+                "Z Notes 1.jpg",
+                "Z Notes 2.jpg",
+                "Z Notes 3.jpg",
+                "Z Notes 4.jpg",
+                "Z Notes 6.jpg"
+            ]
+        }
+    },
+    "Issues in international Taxation": {
+        "Exams": {
+            "file": [
+                "Exam - 06-23 2.jpg",
+                "Exam - 06-23.jpg"
+            ]
+        },
+        "file": [
+            "Exercise - comodity taxation.pdf",
+            "Exercise - corporate taxation.pdf",
+            "Exercise - income taxation.pdf",
+            "Exercise - tax incedence.pdf"
+        ]
+    },
+    "Public Economics": {
+        "file": [
+            "Exercise - externality.pdf",
+            "Exercise - indifference cu.pdf",
+            "Exercise - Lorenz curve, indexes].pdf",
+            "Exercise - monopoly pricing, public good.pdf",
+            "Exercise - natural monopoly, bureaucratic behaviour, Lindahl equilibrium.pdf"
+        ]
+    },
+    "src": {
+        "file": [
+            "directory_structure.json",
+            "script.js",
+            "styles.css",
+            "Update_directory_structure.py"
+        ]
+    },
+    "Statistics": {
+        "Notes": {
+            "file": [
+                "full-note_handwritten_my-note.pdf"
+            ]
+        }
+    }
+}
