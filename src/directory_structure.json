@@ -6,9 +6,6 @@
             ]
         }
     },
-    "file": [
-        "index.html"
-    ],
     "International Economics": {
         "file": [
             "IE Finance_merged (2).pdf",
@@ -94,14 +91,6 @@
             "Exercise - Lorenz curve, indexes].pdf",
             "Exercise - monopoly pricing, public good.pdf",
             "Exercise - natural monopoly, bureaucratic behaviour, Lindahl equilibrium.pdf"
-        ]
-    },
-    "src": {
-        "file": [
-            "directory_structure.json",
-            "script.js",
-            "styles.css",
-            "Update_directory_structure.py"
         ]
     },
     "Statistics": {

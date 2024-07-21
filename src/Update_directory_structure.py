@@ -5,7 +5,7 @@ def get_directory_structure(directory_path):
     directory_dict = {}
     
     for entry in os.listdir(directory_path):
-        if entry[0] == '.':
+        if entry[0] == '.' or entry == "src" or entry == "index.html" or entry == "directory.html":
             continue
         entry_path = os.path.join(directory_path, entry)
         if os.path.isdir(entry_path):
