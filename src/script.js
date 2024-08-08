@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(response => response.json())
         .then(data => {
             const path = new URLSearchParams(window.location.search).get('path') || '';
-            console.log(path, "hello fetch");
             renderDirectory(getSubdirectory(data, path), path);
         })
         .catch(error => console.error('Error fetching JSON:', error));
@@ -66,7 +65,7 @@ function createCard(name, type, basePath) {
         } else {
             const folderPath = basePath ? `${basePath}/${name}` : name;
             // Navigate to directory.html with the correct path
-            window.location.href = `directory.html?path=${encodeURIComponent(folderPath)}`;
+            window.location.href = `index.html?path=${encodeURIComponent(folderPath)}`;
         }
     });
 

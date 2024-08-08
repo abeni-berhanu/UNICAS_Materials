@@ -8,6 +8,33 @@ body {
 .main-header {
     font-family: 'Space Grotesk', sans-serif;
     text-align: center;
+    margin: 20px 0;
+}
+
+#breadcrumb {
+    font-family: 'Space Grotesk', sans-serif;
+    margin: 16px;
+    padding: 10px 16px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+
+#breadcrumb a {
+    color: #3498db; /* Link color */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.2s ease-in-out;
+}
+
+#breadcrumb a:hover {
+    color: #2980b9; /* Hover color */
+}
+
+#breadcrumb span {
+    margin: 0 8px;
+    color: #777; /* Separator color */
 }
 
 #container {
@@ -48,6 +75,6 @@ body {
 
 .card div {
     max-width: 100%;
-    word-break: break-all; /* Break words if necessary */
-    overflow-wrap: anywhere; /* Ensure words break inside the container */
+    word-break: break-all;
+    overflow-wrap: anywhere;
 }
