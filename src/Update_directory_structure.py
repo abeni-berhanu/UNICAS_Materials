@@ -16,13 +16,14 @@ def get_directory_structure(directory_path):
     return directory_dict
 
 def main():
-    directory_path = os.getcwd()
+    current_path = os.getcwd()
+    directory_path = os.path.dirname(current_path)
     if os.path.exists(directory_path) and os.path.isdir(directory_path):
         directory_structure = get_directory_structure(directory_path)
         
-        with open('src/directory_structure.json', 'w') as json_file:
+        with open('directory_structure.json', 'w') as json_file:
             json.dump(directory_structure, json_file, indent=4)
-            print('went well')
+            print('Directory structure updated successfully')
     else:
         print("The specified path is not a directory.")
 
